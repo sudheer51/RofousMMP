@@ -1,5 +1,8 @@
 package org.iitworkforce.util;
-
+/**
+ * Objective: To provide the driver instance accessible by
+ * multiple @Test classes
+ */
 import java.io.File;
 import java.io.FileInputStream;
 import java.util.Properties;
